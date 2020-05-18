@@ -1,0 +1,20 @@
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.exe
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.pdb
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\KOi\AppData\Local\Temporary Projects\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fAdmin.resources
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.exe
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.pdb
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fAccountProfile.resources
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fAdmin.resources
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fLogin.resources
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.fTableManager.resources
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\Project\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
